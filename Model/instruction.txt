@@ -1,0 +1,4 @@
+installed cstransformers
+then sentence-transformers by below command in MAC
+conda install -c conda-forge sentence-transformers, otherwise one can use simply pip install sentence-transformers in windows pc
+and then rest of the libraries mention in requirements.txt
